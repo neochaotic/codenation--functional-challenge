@@ -1,0 +1,7 @@
+.pytest_cache/
+__pycache__/
+.idea/
+.DS_Store
+.stdout.txt
+output.xml
+python-5 - Atalho.lnk
